@@ -1,0 +1,4 @@
+media/
+*.apkg
+__pycache__/
+*.pyc

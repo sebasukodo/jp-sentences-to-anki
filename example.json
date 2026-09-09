@@ -1,0 +1,65 @@
+{
+  "deck": "i+1 Sentences",
+  "cards": [
+    {
+      "sentence": "毎朝コーヒーを飲んで、新聞を読みます。",
+      "reading": "まいあさコーヒーをのんで、しんぶんをよみます。",
+      "uebersetzung": "Every morning I drink coffee and read the newspaper.",
+      "neues_word": {
+        "word": "新聞",
+        "reading": "しんぶん",
+        "definition": "newspaper",
+        "sentence_form": "新聞"
+      },
+      "hint": ""
+    },
+    {
+      "sentence": "猫は台所で寝ています。",
+      "reading": "ねこはだいどころでねています。",
+      "uebersetzung": "The cat is sleeping in the kitchen.",
+      "neues_word": {
+        "word": "台所",
+        "reading": "だいどころ",
+        "definition": "kitchen",
+        "sentence_form": "台所"
+      },
+      "hint": ""
+    },
+    {
+      "sentence": "電車が遅れましたから、会社に電話しました。",
+      "reading": "でんしゃがおくれましたから、かいしゃにでんわしました。",
+      "uebersetzung": "The train was late, so I called the office.",
+      "neues_word": {
+        "word": "遅れる",
+        "reading": "おくれる",
+        "definition": "to be late, to be delayed",
+        "sentence_form": "遅れました"
+      },
+      "hint": "遅れる is intransitive: the train is late by itself."
+    },
+    {
+      "sentence": "図書館で本を借りて、公園で読みました。",
+      "reading": "としょかんでほんをかりて、こうえんでよみました。",
+      "uebersetzung": "I borrowed a book at the library and read it in the park.",
+      "neues_word": {
+        "word": "公園",
+        "reading": "こうえん",
+        "definition": "park",
+        "sentence_form": "公園"
+      },
+      "hint": ""
+    },
+    {
+      "sentence": "今日は天気が悪いですから、傘を持って行きます。",
+      "reading": "きょうはてんきがわるいですから、かさをもっていきます。",
+      "uebersetzung": "The weather is bad today, so I'll take an umbrella.",
+      "neues_word": {
+        "word": "天気",
+        "reading": "てんき",
+        "definition": "weather",
+        "sentence_form": "天気"
+      },
+      "hint": ""
+    }
+  ]
+}
