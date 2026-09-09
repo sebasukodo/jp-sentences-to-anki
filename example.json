@@ -4,8 +4,8 @@
     {
       "sentence": "毎朝コーヒーを飲んで、新聞を読みます。",
       "reading": "まいあさコーヒーをのんで、しんぶんをよみます。",
-      "uebersetzung": "Every morning I drink coffee and read the newspaper.",
-      "neues_word": {
+      "translation": "Every morning I drink coffee and read the newspaper.",
+      "new_word": {
         "word": "新聞",
         "reading": "しんぶん",
         "definition": "newspaper",
@@ -16,8 +16,8 @@
     {
       "sentence": "猫は台所で寝ています。",
       "reading": "ねこはだいどころでねています。",
-      "uebersetzung": "The cat is sleeping in the kitchen.",
-      "neues_word": {
+      "translation": "The cat is sleeping in the kitchen.",
+      "new_word": {
         "word": "台所",
         "reading": "だいどころ",
         "definition": "kitchen",
@@ -28,8 +28,8 @@
     {
       "sentence": "電車が遅れましたから、会社に電話しました。",
       "reading": "でんしゃがおくれましたから、かいしゃにでんわしました。",
-      "uebersetzung": "The train was late, so I called the office.",
-      "neues_word": {
+      "translation": "The train was late, so I called the office.",
+      "new_word": {
         "word": "遅れる",
         "reading": "おくれる",
         "definition": "to be late, to be delayed",
@@ -40,8 +40,8 @@
     {
       "sentence": "図書館で本を借りて、公園で読みました。",
       "reading": "としょかんでほんをかりて、こうえんでよみました。",
-      "uebersetzung": "I borrowed a book at the library and read it in the park.",
-      "neues_word": {
+      "translation": "I borrowed a book at the library and read it in the park.",
+      "new_word": {
         "word": "公園",
         "reading": "こうえん",
         "definition": "park",
@@ -52,8 +52,8 @@
     {
       "sentence": "今日は天気が悪いですから、傘を持って行きます。",
       "reading": "きょうはてんきがわるいですから、かさをもっていきます。",
-      "uebersetzung": "The weather is bad today, so I'll take an umbrella.",
-      "neues_word": {
+      "translation": "The weather is bad today, so I'll take an umbrella.",
+      "new_word": {
         "word": "天気",
         "reading": "てんき",
         "definition": "weather",
