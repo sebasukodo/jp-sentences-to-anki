@@ -1,4 +1,4 @@
-# jp-sentences-to-anki
+# Japanese Sentences to Anki Decks
 
 Turn your i+1 Japanese sentences into an Anki deck with VOICEVOX audio.
 
@@ -13,8 +13,8 @@ Nothing is uploaded anywhere and no API keys are involved — VOICEVOX runs on
 your own machine.
 
 The idea behind the format is **i+1**: every sentence contains exactly one word
-you don't know yet. The script doesn't check that for you — it assumes your
-sentences are already built that way — but the card layout is designed around
+you don't know yet. The script doesn't check that for you. It assumes your
+sentences are already built that way, but the card layout is designed around
 it, which is why the new word gets its own emphasis and its own audio.
 
 ## Features
