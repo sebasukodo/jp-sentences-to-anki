@@ -1,7 +1,6 @@
 """
 Builds an Anki-Deck with VOICEVOX audio from an .json file.
 See README.md for further information.
-
 """
 
 import argparse
@@ -252,7 +251,7 @@ NEW_WORD_BLOCK = """{{#NewWord}}<div class="new">
 
 TEMPLATE_READING = {
     "name": "Reading",
-    "qfmt": '<div class="jp">{{Sentence}}</div>{{Audio}}',
+    "qfmt": '<div class="jp">{{Sentence}}</div>',
     "afmt": """<div class="jp">{{Sentence}}</div>
 {{#Reading}}<div class="kana">{{Reading}}</div>{{/Reading}}
 <hr id="answer">
@@ -260,8 +259,8 @@ TEMPLATE_READING = {
 """
     + NEW_WORD_BLOCK
     + """
-{{#Hint}}<div class="hint">{{Hint}}</div>{{/Hint}}
-{{Audio}}""",
+{{Audio}}{{#Hint}}<div class="hint">{{Hint}}</div>{{/Hint}}
+""",
 }
 
 TEMPLATE_LISTENING = {
