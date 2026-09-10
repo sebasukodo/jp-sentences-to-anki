@@ -62,6 +62,8 @@ python build_anki_deck.py -i example.json -s 13 --speed 0.8 --card-type both
 
 Next you want to import your newly generated deck in Anki via *File → Import*
 
+> You can use and modify run_script.bat or run_script.sh to faster execute the command
+
 ## Options
 
 | Option | Effect |
